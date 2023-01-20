@@ -9,6 +9,8 @@ For many years, German governments have pledged to leave fossil sources behind t
 
 Read more about the analysis in an [article published at medium.com](https://medium.com/@yotka/).
 
+The notebook can also be found on [Kaggle](https://www.kaggle.com/yotkadata/germany-s-transformation-to-renewable-electricity).
+
 ## License
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
