@@ -1,6 +1,6 @@
 ![](export/03-Renewables.png)
 
-# Germany's (slow) transformation to renewable electricity¶
+# Germany's (slow) transformation to renewable electricity
 _A data visualisation project by [Jan Kühn](https://yotka.org), January 2023_
 
 ## What is this about?
@@ -10,6 +10,31 @@ For many years, German governments have pledged to leave fossil sources behind t
 Read more about the analysis in an [article published at medium.com](https://yotka.medium.com/visualizing-germanys-slow-transformation-to-renewable-electricity-381289bed264).
 
 The notebook can also be found on [Kaggle](https://www.kaggle.com/yotkadata/germany-s-transformation-to-renewable-electricity).
+
+## Plots
+
+<p float="left">
+  <img src="export/01-year-2022.png" width="200" />
+  <img src="export/02-dumbbell.png" width="200" />
+  <img src="export/03-Renewables.png" width="200" />
+  <img src="export/04-Conventionals.png" width="200" />
+</p>
+<p float="left">
+  <img src="export/05-Fossil.png" width="200" />
+  <img src="export/06-Wind.png" width="200" />
+  <img src="export/07-Hydro.png" width="200" />
+  <img src="export/08-Solar.png" width="200" />
+</p>
+<p float="left">
+  <img src="export/09-Nuclear.png" width="200" />
+  <img src="export/10-Coal & Lignite.png" width="200" />
+  <img src="export/11-Gas.png" width="200" />
+  <img src="export/12-fossil-peak-2022.png" width="200" />
+</p>
+<p float="left">
+  <img src="export/13-all-sources-abs.png" width="200" />
+  <img src="export/15-total-production-abs.png" width="200" />
+</p>
 
 ## License
 
